@@ -37,3 +37,19 @@ console.log(`Nodejs server started on port ${port}`);
 }
 
 # call back function, if, when my port is successfully created, then I'll call this function
+
+dependencies
+
+# node server.js
+
+# always required, throughout the project
+
+# 3rd party package, important
+
+dev-dependencies
+
+# nodemon
+
+# only when we are running the project while development, creating the project or server
+
+# 3rd party package,

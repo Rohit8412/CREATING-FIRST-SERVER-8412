@@ -18,11 +18,15 @@ creating a variable and assigning a port to it, port number is a 4 digit number 
 
 after installing a http package we get a createServer function using which I am capable of creating a server
 
-<!-- (request, response) =>{
-response.writeHead(200, {'Content-Type':'text/html'});
-response.write("<h1>hellow , This is from my server</h1>");
-response.end();
-} -->
+# (request, response) =>{
+
+# response.writeHead(200, {'Content-Type':'text/html'});
+
+# response.write("<h1>hellow , This is from my server</h1>");
+
+# response.end();
+
+# }
 
 call back function, so when my server creation is done, call this function, now it is capable of accepting request and responses
 
@@ -32,9 +36,11 @@ when we paste the http on the browser, we are actually making a request and to a
 
 after creating a server I am tellin it where I exactly need to create a server, which port do it want to be accesed by the user
 
-<!-- port, ()=>{
-console.log(`Nodejs server started on port ${port}`);
-} -->
+# port, ()=>{
+
+# console.log(`Nodejs server started on port ${port}`);
+
+# }
 
 call back function, if, when my port is successfully created, then I'll call this function
 

@@ -1,0 +1,20 @@
+{
+  "name": "creating-first-server-8412",
+  "version": "1.0.0",
+  "description": "Our First node.js server",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server.js",
+    "Chal":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohit8412/CREATING-FIRST-SERVER-8412.git"
+  },
+  "author": "Rohit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rohit8412/CREATING-FIRST-SERVER-8412/issues"
+  },
+  "homepage": "https://github.com/Rohit8412/CREATING-FIRST-SERVER-8412#readme"
+}
